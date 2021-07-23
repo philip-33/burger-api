@@ -18,6 +18,8 @@
   },
   "homepage": "https://github.com/philip-33/burger-api#readme",
   "dependencies": {
-    "json-server": "^0.16.3"
+    "brew": "^0.0.8",
+    "json-server": "^0.16.3",
+    "ruby": "^0.6.1"
   }
 }
